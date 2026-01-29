@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<products>
+    <product id=101>  <!-- ERROR: Missing quotes -->
+        <name>Laptop</name>
+        <price>999.99</price>
+    <!-- ERROR: Missing closing comment -->
+</products>
