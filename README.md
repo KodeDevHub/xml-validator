@@ -17,7 +17,7 @@ No installation required - just download the script:
 
 ```bash
 # Clone or download XMLValidator.py
-wget https://github.com/KodeDevHub/xml-validator/main/XMLValidator.py
+wget https://github.com/KodeDevHub/xml-validator/blob/main/XMLValidator.py
 ```
 
 **Requirements:**
@@ -265,3 +265,4 @@ For issues, feature requests, or questions:
 - Open an issue on GitHub
 - Ensure you include the XML file causing the problem
 - Provide Python version and operating system details
+
